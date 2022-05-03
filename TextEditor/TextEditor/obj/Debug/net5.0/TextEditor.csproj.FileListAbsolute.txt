@@ -1,0 +1,16 @@
+E:\ConsoleApps\Calculator\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.csproj.AssemblyReference.cache
+E:\ConsoleApps\Calculator\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+E:\ConsoleApps\Calculator\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfoInputs.cache
+E:\ConsoleApps\Calculator\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfo.cs
+E:\ConsoleApps\Calculator\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.csproj.CoreCompileInputs.cache
+E:\ConsoleApps\Calculator\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.exe
+E:\ConsoleApps\Calculator\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.deps.json
+E:\ConsoleApps\Calculator\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.json
+E:\ConsoleApps\Calculator\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.dev.json
+E:\ConsoleApps\Calculator\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.dll
+E:\ConsoleApps\Calculator\TextEditor\TextEditor\bin\Debug\net5.0\ref\TextEditor.dll
+E:\ConsoleApps\Calculator\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.pdb
+E:\ConsoleApps\Calculator\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.dll
+E:\ConsoleApps\Calculator\TextEditor\TextEditor\obj\Debug\net5.0\ref\TextEditor.dll
+E:\ConsoleApps\Calculator\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.pdb
+E:\ConsoleApps\Calculator\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.genruntimeconfig.cache

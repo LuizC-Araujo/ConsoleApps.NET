@@ -1,0 +1,16 @@
+E:\ConsoleApps\Calculator\CalculatorNet\CalculatorNet\bin\Debug\net5.0\CalculatorNet.exe
+E:\ConsoleApps\Calculator\CalculatorNet\CalculatorNet\bin\Debug\net5.0\CalculatorNet.deps.json
+E:\ConsoleApps\Calculator\CalculatorNet\CalculatorNet\bin\Debug\net5.0\CalculatorNet.runtimeconfig.json
+E:\ConsoleApps\Calculator\CalculatorNet\CalculatorNet\bin\Debug\net5.0\CalculatorNet.runtimeconfig.dev.json
+E:\ConsoleApps\Calculator\CalculatorNet\CalculatorNet\bin\Debug\net5.0\CalculatorNet.dll
+E:\ConsoleApps\Calculator\CalculatorNet\CalculatorNet\bin\Debug\net5.0\ref\CalculatorNet.dll
+E:\ConsoleApps\Calculator\CalculatorNet\CalculatorNet\bin\Debug\net5.0\CalculatorNet.pdb
+E:\ConsoleApps\Calculator\CalculatorNet\CalculatorNet\obj\Debug\net5.0\CalculatorNet.csproj.AssemblyReference.cache
+E:\ConsoleApps\Calculator\CalculatorNet\CalculatorNet\obj\Debug\net5.0\CalculatorNet.GeneratedMSBuildEditorConfig.editorconfig
+E:\ConsoleApps\Calculator\CalculatorNet\CalculatorNet\obj\Debug\net5.0\CalculatorNet.AssemblyInfoInputs.cache
+E:\ConsoleApps\Calculator\CalculatorNet\CalculatorNet\obj\Debug\net5.0\CalculatorNet.AssemblyInfo.cs
+E:\ConsoleApps\Calculator\CalculatorNet\CalculatorNet\obj\Debug\net5.0\CalculatorNet.csproj.CoreCompileInputs.cache
+E:\ConsoleApps\Calculator\CalculatorNet\CalculatorNet\obj\Debug\net5.0\CalculatorNet.dll
+E:\ConsoleApps\Calculator\CalculatorNet\CalculatorNet\obj\Debug\net5.0\ref\CalculatorNet.dll
+E:\ConsoleApps\Calculator\CalculatorNet\CalculatorNet\obj\Debug\net5.0\CalculatorNet.pdb
+E:\ConsoleApps\Calculator\CalculatorNet\CalculatorNet\obj\Debug\net5.0\CalculatorNet.genruntimeconfig.cache

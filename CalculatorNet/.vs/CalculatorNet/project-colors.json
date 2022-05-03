@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bb2fae17-2337-475d-866c-ef822bcb86e5": {
+      "ProjectGuid": "bb2fae17-2337-475d-866c-ef822bcb86e5",
+      "DisplayName": "CalculatorNet",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

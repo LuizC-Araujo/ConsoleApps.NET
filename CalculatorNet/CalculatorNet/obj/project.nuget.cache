@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JfxWx1ODdHrvrDbPzKJDygqXuzYWr+nbEFJFMKfsUTQMDY9Jo3SXBBQsFSohhcN0mTOGD3kjBTEJr1DAb2Gmxw==",
+  "success": true,
+  "projectFilePath": "E:\\ConsoleApps\\Calculator\\CalculatorNet\\CalculatorNet\\CalculatorNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lj133\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "53a7814b-bec0-4015-838b-c1073d038309": {
+      "ProjectGuid": "53a7814b-bec0-4015-838b-c1073d038309",
+      "DisplayName": "Stopwatch",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

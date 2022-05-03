@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HCRx7OwrcAdtwvdQ+eKE5JsZySnweFhdR8ZvkN8bdgtyehNkKLR5G8XUU2j5CEbhEc5mT39v/I3k8cW2/qU7Xg==",
+  "success": true,
+  "projectFilePath": "E:\\ConsoleApps\\Calculator\\Stopwatch\\Stopwatch\\Stopwatch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lj133\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
