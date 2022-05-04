@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2hZr2IMbA/tMeGVK1ZJe8WfoR9D+WIS3laiOEFsGmUZ0atcUdw172MZqH8hUWuU2sx+AQaWSa30IgjoSRzYbmw==",
+  "success": true,
+  "projectFilePath": "E:\\ConsoleApps\\ConsoleApps.NET\\EditorHTML\\EditorHTML\\EditorHTML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lj133\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
