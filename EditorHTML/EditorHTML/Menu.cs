@@ -13,29 +13,36 @@ namespace EditorHTML
             Console.Clear();
             Console.BackgroundColor = ConsoleColor.Black;
             Console.ForegroundColor = ConsoleColor.Green;       
-            DrawScreen();
+            DrawScreen(100, 40);
         }
 
-        public static void DrawScreen()
+        public static void DrawScreen(int colunas, int linhas)
+        {
+            DoColumn(colunas);
+            DoLine(linhas, colunas);
+            DoColumn(colunas);
+            
+        }
+
+        public static void DoColumn(int colunas)
         {
             Console.Write("+");
-            for(int i = 0; i < 30; i++)
+            for (int i = 0; i < colunas; i++)
                 Console.Write("-");
             Console.Write("+");
+            Console.Write("\n");
+        }
 
-            for(int lines = 0; lines < 10; lines++)
+        public static void DoLine(int linhas, int colunas)
+        {
+            for (int lines = 0; lines < linhas; lines++)
             {
                 Console.Write("|");
-                for (int i = 0; i <= 30; i++)
+                for (int i = 0; i <= colunas - 1; i++)
                     Console.Write(" ");
                 Console.Write("|");
                 Console.Write("\n");
             }
-
-            Console.Write("+");
-            for (int i = 0; i < 30; i++)
-                Console.Write("-");
-            Console.Write("+");
         }
     }
 }
