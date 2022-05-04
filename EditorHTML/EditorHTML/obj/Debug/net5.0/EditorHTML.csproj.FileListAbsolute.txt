@@ -1,0 +1,16 @@
+E:\ConsoleApps\ConsoleApps.NET\EditorHTML\EditorHTML\bin\Debug\net5.0\EditorHTML.exe
+E:\ConsoleApps\ConsoleApps.NET\EditorHTML\EditorHTML\bin\Debug\net5.0\EditorHTML.deps.json
+E:\ConsoleApps\ConsoleApps.NET\EditorHTML\EditorHTML\bin\Debug\net5.0\EditorHTML.runtimeconfig.json
+E:\ConsoleApps\ConsoleApps.NET\EditorHTML\EditorHTML\bin\Debug\net5.0\EditorHTML.runtimeconfig.dev.json
+E:\ConsoleApps\ConsoleApps.NET\EditorHTML\EditorHTML\bin\Debug\net5.0\EditorHTML.dll
+E:\ConsoleApps\ConsoleApps.NET\EditorHTML\EditorHTML\bin\Debug\net5.0\ref\EditorHTML.dll
+E:\ConsoleApps\ConsoleApps.NET\EditorHTML\EditorHTML\bin\Debug\net5.0\EditorHTML.pdb
+E:\ConsoleApps\ConsoleApps.NET\EditorHTML\EditorHTML\obj\Debug\net5.0\EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+E:\ConsoleApps\ConsoleApps.NET\EditorHTML\EditorHTML\obj\Debug\net5.0\EditorHTML.AssemblyInfoInputs.cache
+E:\ConsoleApps\ConsoleApps.NET\EditorHTML\EditorHTML\obj\Debug\net5.0\EditorHTML.AssemblyInfo.cs
+E:\ConsoleApps\ConsoleApps.NET\EditorHTML\EditorHTML\obj\Debug\net5.0\EditorHTML.csproj.CoreCompileInputs.cache
+E:\ConsoleApps\ConsoleApps.NET\EditorHTML\EditorHTML\obj\Debug\net5.0\EditorHTML.dll
+E:\ConsoleApps\ConsoleApps.NET\EditorHTML\EditorHTML\obj\Debug\net5.0\ref\EditorHTML.dll
+E:\ConsoleApps\ConsoleApps.NET\EditorHTML\EditorHTML\obj\Debug\net5.0\EditorHTML.pdb
+E:\ConsoleApps\ConsoleApps.NET\EditorHTML\EditorHTML\obj\Debug\net5.0\EditorHTML.genruntimeconfig.cache
+E:\ConsoleApps\ConsoleApps.NET\EditorHTML\EditorHTML\obj\Debug\net5.0\EditorHTML.csproj.AssemblyReference.cache
