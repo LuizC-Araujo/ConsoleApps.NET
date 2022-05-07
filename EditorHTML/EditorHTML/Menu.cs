@@ -14,6 +14,9 @@ namespace EditorHTML
             Console.BackgroundColor = ConsoleColor.Black;
             Console.ForegroundColor = ConsoleColor.Green;       
             DrawScreen(30, 10);
+
+            var option = short.Parse(Console.ReadLine());
+            HandleMenuOption(option);
         }
 
         public static void DrawScreen(int colunas, int linhas)
@@ -21,7 +24,9 @@ namespace EditorHTML
             DoColumn(colunas);
             DoLine(linhas, colunas);
             DoColumn(colunas);
-            
+
+            WriteOptions();
+
         }
 
         public static void DoColumn(int colunas)
@@ -43,10 +48,8 @@ namespace EditorHTML
                 Console.Write("|");
                 Console.Write("\n");
 
-                var option = short.Parse(Console.ReadLine());
+               
             }
-
-            WriteOptions();
         }
 
         public static void WriteOptions()
@@ -65,6 +68,22 @@ namespace EditorHTML
             Console.WriteLine("0 - Sair");
             Console.SetCursorPosition(3, 9);
             Console.Write("Opção: ");
+        }
+
+        public static void HandleMenuOption(short option)
+        {
+            switch (option)
+            {
+                case 1: Editor.Show(); break;
+                case 2: Console.WriteLine("View"); break;
+                case 0:
+                    {
+                        Console.Clear();
+                        Environment.Exit(0);
+                        break;
+                    }
+                default: Show(); break;
+            }
         }
     }
 }

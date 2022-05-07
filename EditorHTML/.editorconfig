@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0057: Usar operador de intervalo
+csharp_style_prefer_range_operator = true
