@@ -32,7 +32,7 @@ namespace EditorHTML
             } while (Console.ReadKey().Key != ConsoleKey.Escape);
 
             Console.WriteLine("--------------------");
-            Console.WriteLine("  Deseja salvar o arquivo? (S|N)");
+            Console.WriteLine("!Deseja salvar o arquivo? (S|N)");
             var op = Console.ReadKey();
 
             if (op.Key == ConsoleKey.S)
